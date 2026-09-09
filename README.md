@@ -8,7 +8,7 @@
 
 Manage plant species, nursery locations, environmental conditions, and phytosanitary inspections from a centralized platform with real-time analytics.
 
-[🌐 Live Demo](https://YOUR-DEMO.com) • [⚙️ Backend API](https://YOUR-BACKEND.com)
+[🌐 Live Demo](https://verdantis-1.onrender.com) • [⚙️ Backend API](https://verdantis-1.onrender.com)
 
 </div>
 
